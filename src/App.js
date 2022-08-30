@@ -9,7 +9,7 @@ function App() {
       <footer>
         This project was coded by Shobha Joshi and is open-sourced on
         <a
-          href="https://github.com/shojoi/react-weather-app-with-forecast"
+          href="https://github.com/shojoi/react-dictionary-project"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -18,7 +18,7 @@ function App() {
         </a>{" "}
         and hosted on{" "}
         <a
-          href="https://vocal-crostata-6e4375.netlify.app/"
+          href="https://unrivaled-tapioca-7408be.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
